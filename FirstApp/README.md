@@ -1,2 +1,3 @@
 - Download node.js;
 - Download and Run "ng serve" using cmd from the root of this folder;
+- Production Generated to reduce the size of the project
